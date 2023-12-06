@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "OZAP",
+            "title": "Box-office : Carton pour le \"Napoleon\" de Ridley Scott, flops pour les films avec Pomme et Val\u00e9rie Lemercier - OZAP",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm96YXAuY29tL2FjdHUvYm94LW9mZmljZS1jYXJ0b24tcG91ci1uYXBvbGVvbi1mbG9wcy1wb3VyLWxlcy1maWxtcy1hdmVjLXBvbW1lLWV0LXZhbGVyaWUtbGVtZXJjaWVyLzY0MDA0MtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-11-30T13:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "iDNES.cz",
+            "title": "Film o Napoleonovi je zav\u00e1d\u011bj\u00edc\u00ed, kritizuj\u00ed experti a zvou do Slavkova - iDNES.cz - iDNES.cz",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmlkbmVzLmN6L2Jybm8venByYXZ5L2JpdHZhLXUtc2xhdmtvdmEtbmFwb2xlb24tcHJpcG9taW5rYS1ha2NlLTIwMjMuQTIzMTEzMF83NjI5ODVfYnJuby16cHJhdnlfbW9zMdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-11-30T09:43:00Z",
+            "content": null
+        }
+    ]
+}
