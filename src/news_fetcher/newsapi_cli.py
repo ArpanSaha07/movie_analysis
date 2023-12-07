@@ -5,7 +5,7 @@ import requests
 
 
 API_KEY = "39c9bdc004d9478796169d90f905889f"
-URL = "https://newsapi.org/v2/everything?q={query}&from={date}&searchin={section}&apiKey={api_key}"
+URL = "https://newsapi.org/v2/everything?q={query}&from={date}&searchin={section}&language=en&sortBy=popularity&apiKey={api_key}"
 
 class SearchParameters:
     query: str
@@ -54,7 +54,7 @@ def get_args() -> argparse.Namespace:
                         default=["title", "content", "description"],
                         nargs='*')
     parser.add_argument('-d', '--date',
-                        default="2023-11-02")
+                        default="2023-11-06")
     return parser.parse_args()
     
 
