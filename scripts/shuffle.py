@@ -18,7 +18,7 @@ def main():
 
     for x in range(4):
         with Path('./DATA_F/shuffled_' + str(x) + '.json').open(mode='w') as f:
-            json.dump({'articles': articles[x*25:(x+1)*25]}, f, indent=4)
+            json.dump({'articles': articles[x*75:(x+1)*75]}, f, indent=4)
 
 if __name__ == '__main__':
     main()
