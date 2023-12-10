@@ -4,7 +4,7 @@ import random
 
 def main():
     files, articles = [], []
-    filenames = Path('./DATA_F').glob('*')
+    filenames = Path('./data/DATA_F').glob('*')
 
     for filename in filenames:
         with filename.open() as f:
